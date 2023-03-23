@@ -11,6 +11,7 @@ class CyrillLermontov(ApolloGod):
             dataProcessin: ["Pandas", "Numpy", "Matplotlib", "Seaborn"]
             databases: ["PostgreSQL", "MySql", "sqlite"],
             misc: ["EtherAPI", "Docker", "Open-CV", "Tableau", "Aiogram", "PyTorch"]
+            }
         self.describe = "There is good in my heart, but these hands belong to the devil."
 ```
 
