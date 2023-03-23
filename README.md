@@ -2,7 +2,7 @@
 
 ___
 
-<h1 align='center'><b>WELCOME</b></h1>
+<h2 align='center'><b>WELCOME</b></h2>
 
 ```python
 class CyrillLermontov(ApolloGod):
@@ -17,7 +17,7 @@ class CyrillLermontov(ApolloGod):
 ```
 ___
 
-<h1 align='center'><b>SOCIALS</b></h1>
+<h2 align='center'><b>SOCIALS</b></h2>
 
 <p align="center">
     <a href="https://www.instagram.com/itwasreallycool/">
