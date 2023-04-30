@@ -18,10 +18,7 @@ class CyrillLermontov(ApolloGod):
 <h2 align='center'><b>SOCIALS</b></h2>
 
 <p align="center">
-    <a href="https://www.instagram.com/itwasreallycool/">
-        <img align="center" alt="Twitter" src="assets/instagram.png" />
-    </a>
     <a href="https://twitter.com/itwasreallycool">
-        <img align="center" alt="Instagram"  src="assets/twitter.png" />
+        <img align="center" alt="Twitter"  src="assets/twitter.png" />
     </a>
 </p>
