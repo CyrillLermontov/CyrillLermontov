@@ -6,12 +6,7 @@
 class CyrillLermontov(ApolloGod):
     def __init__(self):
         self.code = ["Python", "C++"]
-        self.askMeAbout = ["AI|ML enthusiast", "Data Science", "WEB3", "Crypto Influencer"]
-        self.technologies = {
-            dataProcessin: ["Pandas", "Numpy", "Matplotlib", "Seaborn"]
-            databases: ["PostgreSQL", "MySql", "sqlite"],
-            misc: ["EtherAPI", "Docker", "Open-CV", "Tableau", "Aiogram", "PyTorch"]
-            }
+        self.askMeAbout = ["AI|ML enthusiast", "Data Science", "WEB3"]
         self.describe = "There is good in my heart, but these hands belong to the devil."
 ```
 
